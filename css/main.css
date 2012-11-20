@@ -1,0 +1,12 @@
+body {
+    padding: 20px;
+    background-color: #336317;
+}
+
+div.hero-unit {
+    
+}
+
+.hero-unit < * {
+    opacity: 1;
+}
