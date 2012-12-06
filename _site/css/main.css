@@ -1,8 +1,24 @@
+html { 
+    background: url(/media/images/book_background.png) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+}
+
 body {
-    background: #87BD31;
+    background: transparent;
 }
 
 /* Navigation */
+.navbar {
+    background-color: black;
+}
+
+.navbar-inner {
+    margin-right: auto; margin-left: auto;
+    width: 940px;
+}
+
 .navbar a.brand {
     font-family: Redressed;
     font-size: 20pt;
@@ -30,6 +46,7 @@ body {
     background: rgba(27, 27, 27, .90);
     padding: 20px 40px 40px 40px;
     color: #eee;
+    margin-top: 50px;
 }
 
 .content-bubble h1 {
@@ -40,7 +57,18 @@ body {
 
 .content-bubble p {
     line-height: 25px;
-    font-family: Average Sans;
-    font-size: 16px;
+    font-size: 15px;
 }
 
+.content-bubble img {
+    margin: 5px 20px 18px 20px;
+}
+
+a.download-title {
+    font-size: 15pt;
+}
+
+a.download-title:first-child {
+    margin-left: 50px;
+    margin-right: 25px;
+}
