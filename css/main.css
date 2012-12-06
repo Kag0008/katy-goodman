@@ -9,6 +9,16 @@ body {
     background: transparent;
 }
 
+/* Font */
+@font-face {
+    font-family: BookA;
+    src: url('../media/fonts/book_antiqua.ttf');
+}
+
+body p {
+    font-family: BookA;
+}
+
 /* Navigation */
 .navbar {
     background-color: black;
