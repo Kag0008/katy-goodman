@@ -90,3 +90,16 @@ blockquote small {
     font-size: 12pt;
     font-family: helvetica;
 }
+
+/* Footer */
+#footer {
+    background: rgba(27, 27, 27, .90);
+    color: #eee;
+    margin-top: 15px;
+    padding: 5px;
+    text-align: center;
+}
+
+#footer p {
+    margin-top: 10px;
+}
