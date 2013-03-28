@@ -16,7 +16,7 @@ body {
 }
 
 body p {
-    font-family: BookA;
+    font-family: Calibri;
 }
 
 /* Navigation */
@@ -62,7 +62,7 @@ body p {
 
 .content-bubble h1 {
     margin-bottom: 30px;
-    font-family: Redressed;
+    font-family: Fondamento;
     font-size: 35pt;
 }
 
@@ -80,9 +80,8 @@ blockquote {
 }
 
 blockquote h3 {
-    font-family: Redressed;
+    font-family: Helvetica;
     font-size: 13pt;
-    line-height: 18px;
 }
 
 blockquote small {
