@@ -80,14 +80,14 @@ blockquote {
 }
 
 blockquote h3 {
-    font-family: Helvetica;
+    font-family: calibri;
     font-size: 13pt;
 }
 
 blockquote small {
     margin-top: 30px;
     font-size: 12pt;
-    font-family: helvetica;
+    font-family: calibri;
 }
 
 /* Footer */
