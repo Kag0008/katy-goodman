@@ -39,7 +39,7 @@ body p {
 
 .navbar a.brand:hover {
     text-shadow: 0px 0px 15px  #f63e62;
-    color: #FFFFFF; 
+    color: #f63e62; 
 }
 
 .container {
@@ -83,11 +83,11 @@ blockquote {
 
 blockquote h3 {
     font-family: calibri;
-    font-size: 13pt;
+    font-size: 12pt;
 }
 
 blockquote small {
-    margin-top: 15px;
+    margin-top: 10px;
     font-size: 12pt;
     font-family: calibri;
 }
@@ -103,4 +103,5 @@ blockquote small {
 
 #footer p {
     margin-top: 10px;
+    background-color: #000000;
 }
