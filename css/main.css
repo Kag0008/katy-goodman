@@ -105,9 +105,10 @@ blockquote small {
     margin-top: 15px;
     padding: 5px;
     text-align: center;
+    text-shadow: 1px 1px 1px #;
 }
 
 #footer p {
     margin-top: 10px;
-    background-color: #000000;
+    background-color: ##f63e62;
 }
