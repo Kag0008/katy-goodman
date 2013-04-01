@@ -2,19 +2,50 @@
 <html lang="en">
   <head>
     <title>Goodman || {{ page.title }}</title>
+    
+    <!-- 
+    	Meta Information is information for robots like Google and other search engines.
+    	The Description is what google will display as the little brief bit of text under your link
+    	when it is displayed on google.
+    	Keywords are terms that search engines will assosciate with your site.
+    -->
     <meta name="description" content="Katy Goodman's teaching website.">
     <meta name="keywords" content="teaching, philosophy, courses, english, books, writing">
 
+
+    <!---
+    	These are linked media files. I consider .css and fonts to be media.
+    	In order:
+    	1. Linking the .css file for Twitter's Bootstrap: 
+    		Twitter's Bootstrap (NO RELATION TO TWITTER!) is basically a collection of .css files
+    		that act as templates! You can just link them in like I did and 
+    		use all of the wonderful classes it provides for you just by 
+    		linking it in! http://twitter.github.com/bootstrap/components.html
+    	2. I linked the google font 'Redressed' 
+    	3. I linked the google font 'Fondamento' 
+    		Google Fonts: www.google.com/webfonts
+    		Basically Google Fonts is a way to link in different fonts without
+    		actually downloading them and putting the file in your site directory!
+    		You just linke the font you want like a css file and you can use it 
+    		in your css!! Pretty neat right? So many fonts to choose from.
+    	4. My main .css file that I wrote myself.
+    -->
     <link href="js/bootstrap/css/bootstrap.min.css" rel="stylesheet" type="text/css">
     <link href="http://fonts.googleapis.com/css?family=Redressed" rel="stylesheet" type="text/css">
     <link href="http://fonts.googleapis.com/css?family=Fondamento" rel="stylesheet" type="text/css">
     <link href="css/main.css" rel="stylesheet" type="text/css">
 
+    <!--
+    	These are external javascript files I am linking in.
+    	DO NOT worry about this stuff. It's not really useful and will just confuse you 
+    	for right now. :) 
+    	1. jQuery: http://jquery.com/
+    	2. Twitter's Bootstrap javascript file for some more template goodies.
+    -->
     <script src="http://code.jquery.com/jquery-latest.js"></script>
     <script src="js/bootstrap/js/bootstrap.min.js"></script>
-
-<script type="text/javascript">
-<Google Analytics> 
+    <!-- Google Analytics -->
+<script type="text/javascript"> 
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-37434910-1']);
   _gaq.push(['_trackPageview']);
