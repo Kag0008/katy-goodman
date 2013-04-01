@@ -32,7 +32,7 @@ body p {
 }
 
 
-ul.nav a:hover { color: #f63e62;
+ul.nav a:hover { color: #f63e62!important;
 }
 
 
