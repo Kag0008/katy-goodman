@@ -22,6 +22,7 @@ body p {
 /* Navigation */
 .navbar {
     background-color: rgba(27, 27, 27, .90);
+    color: #eee; 
 }
 
 .navbar-inner {
