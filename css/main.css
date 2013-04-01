@@ -34,8 +34,8 @@ body p {
 
 ul.nav a:hover { 
         color: #f63e62!important;
-        color: #fff;
         text-shadow: 0px 1px 1px #000!important;
+        font: bold; 
 }   
 
 
