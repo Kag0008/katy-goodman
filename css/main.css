@@ -103,7 +103,7 @@ blockquote small {
 
 /* Footer */
 #footer {
-    background: rgba(27, 27, 27, .90);
+    background: #000000;
     color: #eee;
     margin-top: 15px;
     padding: 5px;
