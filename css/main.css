@@ -65,7 +65,7 @@ ul.nav a:hover {
 
 /* Content */
 .content-bubble {
-    background-color:rgb(27, 27, 27, .80);
+    background-color:rgba(27, 27, 26, 0.80);;
     padding: 20px 40px 40px 40px;
     color: #eee;
     margin-top: 50px;
