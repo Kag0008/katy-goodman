@@ -1,4 +1,4 @@
 katy-goodman
 ============
 
-Katy Goodman's teaching website.
+Katy Goodman's teaching website!
